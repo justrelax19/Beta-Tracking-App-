@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "88510952302",
+    "project_id": "my-project-1470746930126"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88510952302:android:49c26a472d888863",
+        "android_client_info": {
+          "package_name": "info.androidhive.materialdesign.activity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArLLeJT9_jU_jmGMmyT05tjjzcI9YTFlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-84346326-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
